@@ -1,0 +1,40 @@
+@import "../variables";
+
+.page-container {
+  background-color:$gray6;
+  color: $gray2;
+  min-height: 100vh;
+  padding: $contentPadding;
+}
+
+.page-title {
+  font-size: $pageTitleHeight;
+  font-weight: bolder;
+}
+
+.subpage-title1 {
+  font-size: $pageSubtitleHeight;
+  color: $gray3;
+  font-family: 'Inconsolata', sans-serif;
+}
+
+.subpage-title2 {
+  font-size: $pageSubtitleHeight;
+  color: $gradSalmon;
+  font-family: 'Inconsolata', sans-serif;
+}
+
+.team-title {
+  font-size: $pageTitleHeight;
+  font-weight: bold;
+  text-align: center;
+}
+
+.title-container {
+  text-align: center;
+}
+
+.teams-buttons-container {
+  padding: 0 !important;
+  margin-bottom: 30px !important;
+}

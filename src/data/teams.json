@@ -1,0 +1,133 @@
+[
+  {
+    "firstName": "Amartya",
+    "lastName": "Utkarsh",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "WEBDEV"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "Max",
+    "lastName": "Chu",
+    "image": "",
+    "role": "Team Lead",
+    "teams": [
+      "WEBDEV",
+      "EBOARD"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "WEBDEV",
+      "EBOARD",
+      "ARCADEZONE",
+      "MUSICVIZ"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": ""
+  },
+  {
+    "firstName": "David",
+    "lastName": "Smith",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "ARCADEZONE",
+      "MUSICVIZ"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "WEBDEV",
+      "EBOARD",
+      "ARCADEZONE"
+    ],
+    "linkedin": "",
+    "github": "",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "WEBDEV",
+      "EBOARD"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "ARCADEZONE"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "EBOARD",
+      "ARCADEZONE"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": ""
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "WEBDEV",
+      "ARCADEZONE"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": "https://react.semantic-ui.com"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "image": "",
+    "role": "Member",
+    "teams": [
+      "WEBDEV",
+      "EBOARD"
+    ],
+    "linkedin": "https://react.semantic-ui.com",
+    "github": "https://react.semantic-ui.com",
+    "website": "https://react.semantic-ui.com"
+  }
+]

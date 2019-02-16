@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Inconsolata:400,700');
+
+$gradBlue: #4A5C7A;
+$gradPurple: #655F78;
+$gradRust: #A37882;
+$gradSalmon: #CC8680;
+$gradBeige: #DEB697;
+
+$termBlue: #55FFFF;
+$termYellow: #FFFF55;
+$termGreen: #55FF55;
+$termPurple: #FF55FF;
+
+$gray1: #333333;
+$gray2: #4f4f4f;
+$gray3: #828282;
+$gray4: #bdbdbd;
+$gray5: #e0e0e0;
+$gray6: #f2f2f2;
+
+$pageSplashHeight: 4rem;
+$pageTitleHeight: 3rem;
+$pageSubtitleHeight: 1.75rem;
+$pageTextHeight: 1.25rem;
+
+$boxShadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+$contentPadding: 5vw;
+
+.page-card {
+  padding: $contentPadding;
+  background-color: $gray6;
+  height: 100vh;
+}
+.page-title {
+  font-size: $pageTitleHeight !important;
+  color: $gray1;
+  text-align: center;
+}
+.page-subtitle {
+  font-size: $pageSubtitleHeight !important;
+  color: $gray2;
+}
+.page-text {
+  font-size: $pageTextHeight !important;
+  color: $gray2;
+}

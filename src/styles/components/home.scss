@@ -1,0 +1,20 @@
+@import '../variables';
+
+.home-container {
+  padding: 20px;
+}
+
+.home-text {
+  padding: 200px 0;
+  text-align: center;
+  color: $gray6;
+}
+
+.home-text h1 {
+  font-size: $pageSplashHeight;
+  font-weight: bold;
+}
+
+.home-text p {
+  font-size: $pageSubtitleHeight;
+}

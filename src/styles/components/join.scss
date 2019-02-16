@@ -1,0 +1,20 @@
+@import '../variables';
+
+.join-subtitle {
+  font-family: "Inconsolata", sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: $gray2;
+}
+
+.page-subtitle.join, .page-text.join {
+  text-align: center;
+  color: $gray2;
+}
+
+.join-text-container {
+  padding: 0 10vw;
+  @media screen and (max-width: 767px){
+    padding: 0;    
+  }
+}

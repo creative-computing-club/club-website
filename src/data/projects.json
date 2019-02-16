@@ -1,0 +1,16 @@
+[
+  {
+    "name": "ArcadeZone",
+    "subtitle": "Spring 2019",
+    "description": "ArcadeZone description, yadda yadda yadda. YEEEET",
+    "imageName": "placeholder1.jpg",
+    "buttons": [
+      {
+        "icon": "share square",
+        "label": "Visit project site",
+        "link": "/sponsor",
+        "internal": true
+      }
+    ]
+  }
+]

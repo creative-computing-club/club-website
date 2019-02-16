@@ -1,0 +1,49 @@
+@import "../variables.scss";
+
+.events-page-container {
+  padding: $contentPadding;
+  background-color: #F2F2F2;
+}
+
+.events-page-content-container {
+  padding: 0px 0 20px 0;
+}
+
+.events-page-title {
+  font-size: $pageTitleHeight !important;
+}
+
+.events-title {
+  font-size: $pageSubtitleHeight !important;
+  color: $gray1;
+  margin-bottom: 15px !important;
+}
+
+.events-text {
+  font-size: $pageTextHeight;
+  color: $gray1;
+}
+
+.event-container {
+  background: $gray6;
+  box-shadow: $boxShadow;
+  border-radius: 4px;
+  padding: 0 !important;
+}
+
+.event-link {
+  text-decoration-line: underline;
+  color: #CC8680;
+}
+
+.events-item-card {
+  box-shadow: $boxShadow !important;
+  padding: 10px 0 10px 0 !important;
+}
+
+.events-item-card-desc {
+  word-wrap: break-word;
+  @media screen and (max-width: 767px) {
+    padding: 1.5rem 5px !important;
+  }
+}
