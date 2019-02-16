@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("/club-site/workbox-v3.6.3/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/club-site/workbox-v3.6.3"});
+importScripts("/club-website/workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/club-website/workbox-v3.6.3"});
 
 importScripts(
-  "/club-site/precache-manifest.26c98ac3218b3ca3290a437af9423b0b.js"
+  "/club-website/precache-manifest.7c09b5c732a1406269589e1d5903bd7d.js"
 );
 
 workbox.clientsClaim();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/club-site/index.html", {
+workbox.routing.registerNavigationRoute("/club-website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
