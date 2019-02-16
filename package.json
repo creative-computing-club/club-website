@@ -3,7 +3,7 @@
   "author": "Creative Computing Club at Cornell",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://creative-computing-club.github.io/club-site",
+  "homepage": "https://creative-computing-club.github.io/club-website",
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
